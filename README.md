@@ -40,10 +40,6 @@ Live Demo
 
 https://civicpulse-woad-theta.vercel.app/
 
-Documentation
-
-https://1drv.ms/w/c/3ef33c6f0854d3db/IQBeLiVqStz3SrwNseCJU8_IAU3AQk-MVQNg7o7zAegyKo0?e=FN5fXf
-
 Architecture
 
 Citizen
