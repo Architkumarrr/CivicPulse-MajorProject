@@ -61,8 +61,3 @@ Google Maps API
 Analytics Dashboard
 
 
-Team
-
-Sania Shaikh
-
-Built for Hackathon 2026.
