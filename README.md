@@ -38,7 +38,7 @@ Tech Stack
 
 Live Demo
 
-https://civicpulse-991031736120.asia-east1.run.app
+https://civicpulse-woad-theta.vercel.app/
 
 Documentation
 
